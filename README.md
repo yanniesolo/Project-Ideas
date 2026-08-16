@@ -18,13 +18,15 @@ editor on the desktop, or from a Claude Code session.
 
 ## Workflow
 
-**Capture** — Something interesting shows up. Append a line to `inbox.md`:
+**Capture** — Something interesting shows up. Append a line to the bottom of
+`inbox.md`:
 
 ```markdown
 - [ ] https://example.com/article — thing I might want to try
 ```
 
-That's the whole capture step. Don't categorize, don't decide.
+That's the whole capture step. Don't categorize, don't decide. New items always
+go at the end of the list, so capturing from a phone is jump-to-bottom-and-paste.
 
 **Promote** — When an inbox item is worth actually thinking about, give it its
 own file:

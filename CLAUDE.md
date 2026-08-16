@@ -5,9 +5,9 @@ not application code.
 
 ## Conventions
 
-- `inbox.md` — raw capture, one bullet per item, newest at the top under
-  `## Unsorted`. Items move to `## Done` when promoted or dropped, with a note
-  saying which.
+- `inbox.md` — raw capture, one bullet per item, appended to the bottom of the
+  `## Links` list. Items are ticked off when promoted to `ideas/` or dropped,
+  with a note saying which, and ticked lines get deleted once they're stale.
 - `ideas/<kebab-case-title>.md` — one file per idea, created from
   `templates/idea.md` (or via `./scripts/new-idea.sh "Title"`). Front matter
   carries `title`, `status`, `created`, `updated`, `tags`.
