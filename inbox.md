@@ -19,3 +19,12 @@ dropped, and note where it went.
 ## Done
 
 - [x] Example: https://docs.docker.com/compose/ — reference for compose files → not an idea, just a bookmark
+
+
+- [] https://www.xda-developers.com/tailscale-subnet-routing-home-lab-remote-access/?taid=6a7e689cf20fc300019af2d4&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter - maybe this helps work dev projects while away
+
+- [] https://share.google/r2yvGYSpD7w4pFtve - interesting learning project - neat markdown tool
+
+- [] 
+
+- [] https://x.com/i/status/2087261755328315881
